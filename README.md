@@ -10,3 +10,5 @@ version 0.5 integrates support for external systems to control light, switched b
 version 0.6 makes website more mobile-friendly with styles update
 
 version 0.8 adds support for multiple rooms
+- for multiple rooms
+- point room redirect to url of room you want to go to within command.php
