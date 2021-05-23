@@ -8,3 +8,5 @@ version 0.4 allows for automatic login using cookies, enhances portability to ot
 version 0.5 integrates support for external systems to control light, switched backend program to backend.c
 
 version 0.6 makes website more mobile-friendly with styles update
+
+version 0.8 adds support for multiple rooms
